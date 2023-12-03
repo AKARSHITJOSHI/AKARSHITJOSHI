@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on [Your Project or Current Focus]
+- 🔭 I’m currently working on torque
 - 🌱 I’m currently learning React.js
 - 💡 I’m interested in Backend Development
 - 📫 How to reach me: akarshitjoshi@gmail.com
