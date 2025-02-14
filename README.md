@@ -4,10 +4,13 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on torque
+- 🔭 I’m currently working on xpanse
 - 🌱 I’m currently learning React.js
 - 💡 I’m interested in Backend Development
 - 📫 How to reach me: akarshitjoshi@gmail.com
+
+## Latest Contribution
+https://github.com/eclipse-xpanse/xpanse/pull/2417
 
 ## 🛠️ Technologies & Tools
 
