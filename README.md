@@ -10,13 +10,11 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 - 📫 How to reach me: akarshitjoshi@gmail.com
 
 <!-- GITHUB CONTRIBUTION SECTION -->
-<h2 align="center">📊 My Recent GitHub Contributions</h2>
+## 📊 My Recent GitHub Contributions
 
-<div align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=AKARSHITJOSHI
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKARSHITJOSHI)
 
 
-</div>
 
 ## 🛠️ Technologies & Tools
 
