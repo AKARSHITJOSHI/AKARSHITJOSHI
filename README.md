@@ -9,8 +9,14 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 - 💡 I’m interested in Backend Development
 - 📫 How to reach me: akarshitjoshi@gmail.com
 
-## Latest Contribution
-https://github.com/eclipse-xpanse/xpanse/pull/2417
+<!-- GITHUB CONTRIBUTION SECTION -->
+<h2 align="center">📊 My Recent GitHub Contributions</h2>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKARSHITJOSHI&theme=dark&hide_border=true)](https://github.com/AKARSHITJOSHI)
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
