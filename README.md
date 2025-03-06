@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 <h2 align="center">📊 My Recent GitHub Contributions</h2>
 
 <div align="center">
- https://github.com/pulls?q=is:pr+author:AKARSHITJOSHI+sort:created-desc
+https://github-readme-streak-stats.herokuapp.com/?user=AKARSHITJOSHI
 
 
 </div>
