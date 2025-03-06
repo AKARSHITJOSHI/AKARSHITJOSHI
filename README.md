@@ -13,8 +13,8 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 <h2 align="center">📊 My Recent GitHub Contributions</h2>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKARSHITJOSHI&theme=dark&hide_border=true)](https://github.com/AKARSHITJOSHI)
+ https://github.com/pulls?q=is:pr+author:AKARSHITJOSHI+sort:created-desc
+
 
 </div>
 
@@ -30,9 +30,6 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 
 ![Akarshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKARSHITJOSHI&show_icons=true&count_private=true&hide=contribs,prs)
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKARSHITJOSHI&layout=compact)
 
 
 Thanks for stopping by! 😊
