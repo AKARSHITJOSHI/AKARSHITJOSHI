@@ -24,7 +24,7 @@ I'm a passionate software developer with a love for clean code and problem-solvi
 - Languages: C++ Java Javascript Go
 - Frontend: React.js
 - Backend: Java Go
-- Databases: Postgres Aerospike
+- Databases: Postgres Aerospike Redis
 - DevOps: Docker
 
 ## 📊 GitHub Stats
